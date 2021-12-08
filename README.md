@@ -1,5 +1,4 @@
-# Group 54 Airline Portal
-# Rutgers Fall 2021 CS336 Group 54
+# Rutgers Fall 2021 CS336 Group 54 Airline Portal
 
 Admin username: admin
 Admin password: admin
