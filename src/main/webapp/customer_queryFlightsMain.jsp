@@ -12,11 +12,17 @@
 	</head>
 	
 	<body>
-		<form method="post" action="customer_browseFlights.jsp">		  
-			<input type="submit" value="Browse Flights!" />
-		</form>
-		<form method="post" action="HomePage.jsp">		  
+
+		Select Flight Type
+		<br>
+		------------------------------------------------------------------------
+		
+
+		<br>
+		<form method="get" action="HomePage.jsp">		  
 			<input type="submit" value="Log Out" />
 		</form>
+		
+		
 	</body>
 </html>
