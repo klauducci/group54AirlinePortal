@@ -10,3 +10,4 @@ I have created customer and representative home pages but they are empty as of n
 Attached SQL file will create the database which worked with admin functionality.
 
 Code borrowed from cs336Sample project
+ 
