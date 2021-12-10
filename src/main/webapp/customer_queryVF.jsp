@@ -46,7 +46,7 @@
 				str = "Select flight.fid, flight.AL_ID, flight.Flight_Num, flight.Plane_ID, flight.Domestic, flight.Origin, flight.Dest, flight.Dep_Time, flight.Arr_Time, flight.Stops, flight.One_Way, tickets.Price from flight join tickets on flight.FID = tickets.fid WHERE flight.Origin = " + a1 + " AND flight.Dest = " + a2 + " AND flight.Dep_Time >= DATE_ADD('" + date + "', INTERVAL -3 DAY) AND flight.Dep_Time <= DATE_ADD('" + date + "', INTERVAL 3 DAY) AND flight.One_Way = " + way;
 			}
 			
-			out.print(str);
+			//out.print(str);
 			
 			
 			
