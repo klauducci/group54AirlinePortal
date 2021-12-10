@@ -23,7 +23,7 @@
 			Statement stmt = con.createStatement();
 			//Get the combobox from the index.jsp
 			
-			String getRadio = request.getParameter("myRadio");
+			String getRadio = request.getParameter("myradio");
 			
 			//out.print(getRadio);
 		
